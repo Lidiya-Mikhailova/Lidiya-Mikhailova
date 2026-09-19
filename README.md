@@ -2,7 +2,7 @@
   <img src="./photo_2026-09-19 18.01.19.jpeg" width="100%" alt="Mountain landscape">
 </p>
 
-Backend & Data Engineer
+### Backend & Data Engineer
 
 I build reliable backend and data systems, from ingestion and validation to orchestration, storage, and observability.
 
